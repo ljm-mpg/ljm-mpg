@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - MPG RSuite CMS 
-  > [![CI](https://github.com/macmillanpublishers/Macmillan_RSuite/actions/workflows/ci-jobs.yml/badge.svg?branch=master)](http://trdrswebdev01.web.hbpub.net:8080/rsuite-integration-test-results/)
+  > [![CI](https://github.com/macmillanpublishers/Macmillan_RSuite/actions/workflows/ci-jobs.yml/badge.svg?branch=master)](https://github.com/macmillanpublishers/Macmillan_RSuite/actions/workflows/ci-jobs.yml)
 - MPG RSuite D4P plugin 
   > [![CI](https://github.com/macmillanpublishers/mpg-rsuite-d4p-plugin/workflows/CI/badge.svg)](https://github.com/macmillanpublishers/mpg-rsuite-d4p-plugin/actions/workflows/ci.yml)
 - MPG Camel Service
