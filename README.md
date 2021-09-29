@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- Macmillan RSuite CMS [![CI](https://github.com/macmillanpublishers/Macmillan_RSuite/actions/workflows/ci-jobs.yml/badge.svg?branch=master)](http://trdrswebdev01.web.hbpub.net:8080/rsuite-integration-test-results/)
+- MPG RSuite CMS 
+  > [![CI](https://github.com/macmillanpublishers/Macmillan_RSuite/actions/workflows/ci-jobs.yml/badge.svg?branch=master)](http://trdrswebdev01.web.hbpub.net:8080/rsuite-integration-test-results/)
+- MPG RSuite D4P plugin 
+  > ![CI](https://github.com/macmillanpublishers/mpg-rsuite-d4p-plugin/workflows/CI/badge.svg)
